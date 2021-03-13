@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * This method displays the given text on the screen.
+     * The given method has not been used as i have used intent to mail
      */
 //    private void displayMessage(String message) {
 //        TextView orderSummaryTextView = (TextView) findViewById(R.id.order_summary_text_view);
